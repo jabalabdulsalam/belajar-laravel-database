@@ -39,3 +39,7 @@ DROP TABLE categories;
 DROP TABLE counters;
 
 SHOW TABLES;
+
+SELECT * FROM migrations;
+
+SELECT * FROM categories;
